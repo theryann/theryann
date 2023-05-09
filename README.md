@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @theryann
 - 👀 I’m interested in finding cool patterns in data
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Go
 - 💞️ I’m looking to collaborate on finding that missing semicolon
 - 📫 How to reach me: push to my repo and write me a commit message
 
